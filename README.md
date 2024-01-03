@@ -45,4 +45,4 @@ To run the experiment, execute the binary file:
 ./sim
 ```
 
-After the simulation finishes, three files are created: statistics for RTA and delay tolerant data flows, and queue size probability distribution for RTA station.
+After the simulation finishes, two files are created: delay statistics and queue size probability distribution for RTA station.
