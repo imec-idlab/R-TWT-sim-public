@@ -1,0 +1,20 @@
+{
+      "saveDelays": false,
+      "bandwidth": 20,
+      "simTime": 5e8,
+      "seed": 1,
+      "errorProb": 0.1,
+      "edca": {
+        "numSta": 1,
+        "interval": 1e4,
+        "pktSize": 1500
+      },
+      "twt": {
+        "numSta": 1,
+        "interval": 16000.0,
+        "pktSize": 200,
+        "spPeriod": 16000,
+        "spDurationPkts": 3,
+        "numRetx": 3
+      }
+    }
